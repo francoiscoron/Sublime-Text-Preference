@@ -6,7 +6,7 @@ Tout d'abord il faut télécharger [Sublime Text 3](http://www.sublimetext.com/3
 
 Il faut tout d'abord se rendre dans le dossier `package` de sublime text :
 ```
-cd ~/Library/Application\ Support/Sublime\ Text/Packages
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 ```
 
 Ensuite renomer l'ancien dossier `user` :
