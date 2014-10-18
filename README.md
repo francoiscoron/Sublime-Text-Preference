@@ -1,6 +1,6 @@
-# Mes Préférences (Sublime Text 3)[http://www.sublimetext.com/3]
+# Mes Préférences Sublime Text 3
 
-Tout d'abord il faut télécharger le [package control](https://sublime.wbond.net/installation#st3).
+Tout d'abord il faut télécharger [Sublime Text 3](http://www.sublimetext.com/3) et le [package control](https://sublime.wbond.net/installation#st3).
 
 ## Cloner les préférences
 
