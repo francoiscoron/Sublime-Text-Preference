@@ -25,7 +25,7 @@ git clone git@github.com:francoiscoron/Sublime-Text-Preference.git User
 
 Voici mes réglages par défaut pour l'interface de Sublime Text, la police `Source Code Pro` est disponible sur [google font](https://www.google.com/fonts) et le thème, Predawn, [ici](https://github.com/jamiewilson/predawn). Les lignes suivantes sont à ajouter dans `Sublime Text -> Preferences -> Settings -User` :
 
-```json
+```
 {
     "caret_extra_width": 1,
     "caret_style": "phase",
@@ -77,15 +77,15 @@ Voici mes réglages par défaut pour l'interface de Sublime Text, la police `Sou
 ```
 Et mes préférences pour le `Markdown`, qui se trouve dans `Sublime Text -> Preference -> Settings - More -> Syntax Specific` :
 
-```json
+```
 {
     "color_scheme": "Packages/Predawn/predawn-markdown.tmTheme",
-    "draw_centered": true, // Centers the column in the window
+    "draw_centered": true,
     "draw_indent_guides": false,
     "font_size": 15,
     "trim_trailing_white_space_on_save": false,
     "word_wrap": true,
-    "wrap_width": 60  // Sets the # of characters per line
+    "wrap_width": 60
 }
 ```
 
