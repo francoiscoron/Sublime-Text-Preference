@@ -23,7 +23,7 @@ git clone git@github.com:francoiscoron/Sublime-Text-Preference.git User
 
 ## Settings - User
 
-Voici mes réglages par défaut pour l'interface de Sublime Text, la police `Source Code Pro` est disponible sur [google font](https://www.google.com/fonts) et le thème ** Predawn** [ici](https://github.com/jamiewilson/predawn). Les lignes suivantes sont à ajouter dans `Sublime Text -> Preferences -> Settings -User` :
+Voici mes réglages par défaut pour l'interface de Sublime Text, la police `Source Code Pro` est disponible sur [google font](https://www.google.com/fonts) et le thème **Predawn** [ici](https://github.com/jamiewilson/predawn). Les lignes suivantes sont à ajouter dans `Sublime Text -> Preferences -> Settings -User` :
 
 ```
 {
