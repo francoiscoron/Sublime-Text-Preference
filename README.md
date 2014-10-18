@@ -75,7 +75,7 @@ Voici mes réglages par défaut pour l'interface de Sublime Text, la police `Sou
     "word_wrap": true
 }
 ```
-Et mes préférences pour le `Markdown`, qui se trouve dans `Sublime Text -> Preference -> Settings - More -> Syntax Specific` :
+Et mes préférences pour le **Markdown**, qui se trouve dans `Sublime Text -> Preference -> Settings - More -> Syntax Specific` :
 
 ```
 {
