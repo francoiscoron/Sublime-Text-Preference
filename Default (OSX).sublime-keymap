@@ -1,5 +1,18 @@
 [
-
-    { "keys": ["super+n"], "command": "advanced_new_file"}
-
+    { "keys": ["super+n"], "command": "advanced_new_file"},
+    { "keys": ["super+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+    { "keys": ["super+shift+d"], "command": "find_all_under" },
+    { "keys": ["super+shift+c"], "command": "toggle_comment", "context" : [{
+        "operand": "source.css",
+        "operator": "not_equal",
+        "match_all": true,
+        "key": "selector"
+        },{
+        "operand": "source.scss",
+        "operator": "not_equal",
+        "match_all": true,
+        "key": "selector"
+        }]},
+    { "keys": ["super+shift+down"], "command": "duplicate_line" },
+    { "keys": ["super+k", "super+k"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]
